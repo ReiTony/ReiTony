@@ -36,5 +36,8 @@ I'm from Quezon City, Philippines 🇵🇭 | 🚀 Backend developer who loves to
 
 </div>
 
-
+<div align="center">
+  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReiTony&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
+  <br />
+</div>
 
