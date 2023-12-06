@@ -32,12 +32,10 @@ I'm from Quezon City, Philippines 🇵🇭 | 🚀 Backend developer who loves to
 
 ## :chart_with_upwards_trend: Github Stats
 
-[![ReiTony's GitHub stats](https://github-readme-stats.vercel.app/api?username=ReiTony&show_icons=true&theme=dracula&hide=stars,issues)](https://github.com/ReiTony)
-
-</div>
-
 <div align="center">
-  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReiTony&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=ReiTony&show_icons=true&theme=dracula&hide=stars,issues" alt="ReiTony's GitHub stats" />
   <br />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReiTony&layout=compact&hide_title=1&card_width=300" alt="Top languages used in my repos" />
 </div>
+
 
