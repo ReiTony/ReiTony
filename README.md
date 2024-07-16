@@ -6,7 +6,7 @@
 </p>
 
 
-I'm from Quezon City, Philippines 🇵🇭 | 🚀 Backend developer who loves to code and explore different languages. I've also delved into entry-level Data Science. 🌐 On a mission to master full-stack development with a backend focus. 🤝 Excited about collaborations and connecting with the developer community. 💡 Working on personal projects and open for commissions!
+I'm from Quezon City, Philippines 🇵🇭 | 🚀 Jr. Backend developer and Jr. Data Scientist/Analyst who loves to code and explore different languages. 🌐 On a mission to master full-stack development and pursue further into Machine Learning and Data Science. 🤝 Excited about collaborations and connecting with the developer community. 💡 Working on personal projects and open for commissions!
 
 <h2 align="center">🛠️ Tech Stack!</h2>
 <p>
