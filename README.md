@@ -6,7 +6,14 @@
 </p>
 
 
-I'm from Quezon City, Philippines 🇵🇭 | 🚀 Jr. Backend Developer, Machine Learning Engineer, and AI Practitioner with a passion for coding and exploring different technologies. 🌍 On a mission to master full-stack development and advance further into Machine Learning and Data Science. 🤖 Excited about collaborations and connecting with the developer and AI community. 💡 Working on personal projects and open for commissions!
+🚀 Jr. Backend Developer | Entry-Level Data Scientist | Machine Learning Engineer | AI Practitioner
+📍 Quezon City, Philippines 🇵🇭
+
+💡 Passionate about building intelligent systems, deploying machine learning models, and crafting scalable backend solutions. I specialize in FastAPI, Supabase, Python, and deep learning, with hands-on experience in computer vision (CNN, EfficientNet), NLP (sentiment analysis), and MLOps.
+
+🌐 Currently mastering full-stack development, integrating AI into real-world applications, and expanding my expertise in cloud deployment & CI/CD.
+
+🤝 Open to collaborations, freelance projects, and commissions—always eager to connect with fellow developers, data scientists, and AI enthusiasts!
 
 <h2 align="center">🛠️ Tech Stack!</h2>
 <p>
