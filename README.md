@@ -10,13 +10,12 @@
     <img alt="Discord" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
-
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=Gmail&message=antoncarino.work@gmail.com%20&color=D14836&style=for-the-badge&logo=gmail&logoColor=white" />
 </p>
 
 <p align="center">
-  <img src="https://media.tenor.com/Ryp3kZT6fGIAAAAC/jojo-paper-gun.gif" width="400" alt="JoJo Paper Gun GIF" />
+  <img src="https://tenor.com/view/jojo-paper-gun-gif-20468704" width="400" alt="JoJo Paper Gun GIF" />
 </p>
 
 💼 Junior Python Engineer | AI Engineer | Data Scientist | Back-End Developer
