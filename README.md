@@ -6,12 +6,21 @@
 </p>
 
 
-🚀 Jr. Backend Developer | Entry-Level Data Scientist | Machine Learning Engineer | AI Practitioner
+🚀 Junior Python Engineer | AI Engineer | Data Scientist | Machine Learning Engineer
 📍 Quezon City, Philippines 🇵🇭
 
-💡 Passionate about building intelligent systems, deploying machine learning models, and crafting scalable backend solutions. I specialize in FastAPI, Supabase, Python, and deep learning, with hands-on experience in computer vision (CNN, EfficientNet), NLP (sentiment analysis), and MLOps.
+💡 I design and deploy intelligent systems that bridge AI innovation with real-world impact—specializing in FastAPI, Python, Supabase, and MLOps. My expertise spans deep learning, NLP, and computer vision, building everything from personal AI assistants to production-grade cloud applications..
 
-🌐 Currently mastering full-stack development, integrating AI into real-world applications, and expanding my expertise in cloud deployment & CI/CD.
+### 🧠 **Experience Highlights**
+- **Thought Bubble** — AI-powered journaling app with sentiment & emotion analysis, encrypted storage, mood visualization dashboards, and Supabase/PostgreSQL integration.  
+- **Medical AI** — CNN & EfficientNet-based models for psoriasis severity detection with automated cloud retraining pipelines.  
+- **NLP Systems** — Sentiment analysis, emotion detection, keyword extraction, intent classification, and multilingual translation pipelines.  
+- **FSL Interpreter** — Real-time alphanumeric sign language recognition with MediaPipe & CNN.  
+- **Library AI Assistant** — FastAPI + Koha ILS with LLM-powered ISBN lookups, book recommendations, and semantic search.  
+- **Virtual Pet AI** — Breed-specific personality logic, age-based behavior adaptation, and Text-to-Motion integration.  
+- **MLOps & Backend** — Hugging Face, Azure ML, Google Colab, Supabase/MongoDB, async APIs, caching, and scalable FastAPI architectures.  
+
+🌐 Currently leveling up in cloud deployment, CI/CD, and scalable AI architecture to deliver robust, production-ready solutions.
 
 🤝 Open to collaborations, freelance projects, and commissions—always eager to connect with fellow developers, data scientists, and AI enthusiasts!
 
