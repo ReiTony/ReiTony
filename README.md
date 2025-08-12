@@ -6,7 +6,7 @@
 </p>
 
 
-🚀 Junior Python Engineer | AI Engineer | Data Scientist | Machine Learning Engineer
+💼 Junior Python Engineer | AI Engineer | Data Scientist | Back-End Developer
 📍 Quezon City, Philippines 🇵🇭
 
 💡 I design and deploy intelligent systems that bridge AI innovation with real-world impact—specializing in FastAPI, Python, Supabase, and MLOps. My expertise spans deep learning, NLP, and computer vision, building everything from personal AI assistants to production-grade cloud applications..
