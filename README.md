@@ -1,10 +1,23 @@
 <h2 align="center">👋 Hello! I'm Anton Carino!</h2>
-<p align="center"><a href="https://github.com/ReiTony" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a><a href="https://www.linkedin.com/in/antoncarino/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a><a href="https://discord.com/users/314449094154125313" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />
-</p>
 <p align="center">
- <img src="https://img.shields.io/static/v1?label=Gmail&message=antoncarino.work@gmail.com%20&color=D14836&style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://github.com/ReiTony" target="_blank">
+    <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/antoncarino/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://discord.com/users/314449094154125313" target="_blank">
+    <img alt="Discord" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/static/v1?label=Gmail&message=antoncarino.work@gmail.com%20&color=D14836&style=for-the-badge&logo=gmail&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://media.tenor.com/Ryp3kZT6fGIAAAAC/jojo-paper-gun.gif" width="400" alt="JoJo Paper Gun GIF" />
+</p>
 
 💼 Junior Python Engineer | AI Engineer | Data Scientist | Back-End Developer
 📍 Quezon City, Philippines 🇵🇭
