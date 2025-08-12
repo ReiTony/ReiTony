@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="https://tenor.com/view/jojo-paper-gun-gif-20468704" width="400" alt="JoJo Paper Gun GIF" />
+  <img src="https://imgur.com/a/MFXiv3x" width="400" alt="JoJo Paper Gun GIF" />
 </p>
 
 💼 Junior Python Engineer | AI Engineer | Data Scientist | Back-End Developer
