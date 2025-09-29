@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hello! I'm Anton Carino!</h2>
+<h2 align="center">👋 Hello! I'm Anton Carino! (real ninja) </h2>
 <p align="center">
   <a href="https://github.com/ReiTony" target="_blank">
     <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
