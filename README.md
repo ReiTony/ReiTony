@@ -18,7 +18,7 @@
   <img src="https://i.imgur.com/zV6QxdR.gif" width="400" alt="JoJo Paper Gun GIF" />
 </p>
 
-💼 Junior Python Engineer | AI Engineer | Data Scientist | Back-End Developer
+💼 Junior Python Engineer | AI Engineer | Data Scientist | Fullstack Developer
 📍 Quezon City, Philippines 🇵🇭
 
 💡 I design and deploy systems that bridge AI innovation with real-world impact—specializing in FastAPI, Python, Supabase, and MLOps. I also dabble in Data Science and MERN Stack.
