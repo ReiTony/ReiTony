@@ -18,6 +18,8 @@
   <img src="https://i.imgur.com/zV6QxdR.gif" width="400" alt="JoJo Paper Gun GIF" />
 </p>
 
+<div align="center">
+
 Full-Stack Developer | Applied AI & ML Practitioner  
 Quezon City, Philippines
 
@@ -26,6 +28,8 @@ I build and ship production-ready web applications and applied machine learning 
 Currently focused on scaling full-stack architectures, streamlining cloud infrastructure, and integrating modern AI tooling into everyday development workflows.
 
 Open to collaborations, freelance projects, and tech discussions.
+
+</div>
 
 <h2 align="center">Tech Stack & Tools</h2>
 <p align="center">
@@ -36,6 +40,8 @@ Open to collaborations, freelance projects, and tech discussions.
   <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img alt="Claude" src="https://img.shields.io/badge/Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img alt="WSL" src="https://img.shields.io/badge/WSL-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
