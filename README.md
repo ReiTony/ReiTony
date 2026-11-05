@@ -49,10 +49,9 @@ Open to collaborations, freelance projects, and tech discussions.
 
 <div align="center">
 
-## GitHub Stats
-
 <div align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=ReiTony&show_icons=true&theme=dracula&hide=stars,issues" alt="ReiTony's GitHub stats" />
-  <br />
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReiTony&layout=compact&hide_title=1&card_width=300" alt="Top languages used in my repos" />
+
+<h2 align="center">GitHub Activity</h2>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ReiTony&theme=dracula&hide_border=true" alt="GitHub Streak Stats" />
+
 </div>
